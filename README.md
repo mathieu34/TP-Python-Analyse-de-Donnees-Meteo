@@ -4,10 +4,10 @@
 	*lecture du fichier meteo.csv*
 
 ### **Calcul des statistiques(statistics)**
-	* Température moyenne, 
-	* Températures minimale et maximale, 
-	* Humidité moyenne, 
-	* Nombre de jours de pluie
+	- * Température moyenne, 
+	- * Températures minimale et maximale, 
+	- * Humidité moyenne, 
+	- * Nombre de jours de pluie
 ### **Affichage d’un rapport (display_rapport)**
 
 ### **Graphique des températures(display_graphic1)**
@@ -41,6 +41,7 @@
 ```bash
 **python tp_meteo.py**
 ```
+
 
 
 
