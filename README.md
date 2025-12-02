@@ -1,7 +1,7 @@
 # Fonctionnalités principales du programme 
 
 ### **Chargement des données(load_file)**
-	*lecture du fichier meteo.csv*
+*lecture du fichier meteo.csv*
 
 ### **Calcul des statistiques(statistics)**
 * Température moyenne, 
@@ -41,6 +41,7 @@
 ```bash
 **python tp_meteo.py**
 ```
+
 
 
 
