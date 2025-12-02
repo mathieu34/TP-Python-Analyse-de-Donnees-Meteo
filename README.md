@@ -1,9 +1,9 @@
 # Fonctionnalités principales du programme 
 
-### Chargement des données(load_file)
+*### Chargement des données(load_file)
 *lecture du fichier meteo.csv*
 
-### **Calcul des statistiques(statistics)**
+### Calcul des statistiques(statistics)
 * Température moyenne, 
 * Températures minimale et maximale, 
 * Humidité moyenne, 
@@ -41,6 +41,7 @@
 ```bash
 **python tp_meteo.py**
 ```
+
 
 
 
