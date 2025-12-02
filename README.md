@@ -1,6 +1,6 @@
 # Fonctionnalités principales du programme 
 
-*### Chargement des données(load_file)
+### Chargement des données(load_file)
 *lecture du fichier meteo.csv*
 
 ### Calcul des statistiques(statistics)
@@ -8,21 +8,21 @@
 * Températures minimale et maximale, 
 * Humidité moyenne, 
 * Nombre de jours de pluie
-### **Affichage d’un rapport (display_rapport)**
+### Affichage d’un rapport (display_rapport)
 
-### **Graphique des températures(display_graphic1)**
+### Graphique des températures(display_graphic1)
 *Temperatures.png : Temperatures sur le début de l'année*
 
-### **Jours les plus chauds / froids (display_hot_cold_days)**
+### Jours les plus chauds / froids (display_hot_cold_days)
 
-### **Graphique de l'humidité(display_graphic2)**
+### Graphique de l'humidité(display_graphic2)
 *humidite.png : humidite sur le début de l'année*
 
-### **API Open-Meteo (API_meteo)**
+### API Open-Meteo (API_meteo)
 *meteo actuelle de Montpellier grace aux données de géolocalisation*
 
-### **Export d’un rapport météo (export_API_meteo_report)**
-*nommé rapport.txt*
+### Export d’un rapport météo (export_API_meteo_report)
+*nommé *rapport.txt**
 
 
 # Execution du programme
@@ -41,6 +41,7 @@
 ```bash
 **python tp_meteo.py**
 ```
+
 
 
 
